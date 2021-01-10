@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+## My favorite things to do
+- Travel
+- Study languages
+- Hike
+- Sing
+- Study dance
+- Go for a long drive
+- Study
